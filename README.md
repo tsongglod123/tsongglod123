@@ -3,6 +3,8 @@ I am a third-year student studying information technology, and I specifically ha
 and analyzing datasets for insights, and developing REST API. Knowledge of fundamental machine learning and proficiency in platforms that facilitate effective data
 analysis, such as Microsoft Excel, R programming, SQL, and Power BI.
 
+[![Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsongglod123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
 <summary>More details abount me 💬</summary>
 <h2>My skills 📜</h2>
