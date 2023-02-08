@@ -1,5 +1,7 @@
 # Hi, I am Tan 👋
-text...
+I am a third-year student studying information technology, and I specifically have an interest in data analysis. Experienced in interpreting, transforming, organizing,
+and analyzing datasets for insights, and developing REST API. Knowledge of fundamental machine learning and proficiency in platforms that facilitate effective data
+analysis, such as Microsoft Excel, R programming, SQL, and Power BI.
 
 <details>
 <summary>More details abount me 💬</summary>
