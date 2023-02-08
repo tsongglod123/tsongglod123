@@ -1,7 +1,9 @@
 # Hi, I am Tan 👋
-I am a third-year student studying information technology, and I specifically have an interest in data analysis. Experienced in interpreting, transforming, organizing,
-and analyzing datasets for insights, and developing REST API. Knowledge of fundamental machine learning and proficiency in platforms that facilitate effective data
-analysis, such as Microsoft Excel, R programming, SQL, and Power BI.
+- I specifically have an interest in data analysis
+- Studying School of Information Technology at KMUTT
+- Experienced in interpreting, transforming, organizing, and analyzing datasets for insights, and developing REST API
+- Knowledge of fundamental machine learning 
+- Proficiency in platforms that facilitate effective data analysis, such as Microsoft Excel, R programming, SQL, and Power BI
 
 [![Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsongglod123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
