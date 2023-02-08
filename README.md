@@ -1,4 +1,5 @@
 # Hi, I am Tan 👋
+## About Me
 - I specifically have an interest in data analysis
 - Studying School of Information Technology at KMUTT
 - Experienced in interpreting, transforming, organizing, and analyzing datasets for insights, and developing REST API
@@ -8,9 +9,9 @@
 [![Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsongglod123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-<summary>More details abount me 💬</summary>
-<h2>My skills 📜</h2>
-<h3>Data skills</h3>
+<summary>More details about me 💬</summary>
+<h2>My Skills 📜</h2>
+<h3>Data Skills</h3>
 <ul>
   <li>Machine learning</li>
   <li>Statistics (<a href="https://learn.365datascience.com/certificates/CC-1BE84F4900/">365 Data Science Certified</a>)</li>
@@ -26,14 +27,14 @@
   </li>
   <li>SQL (<a href="https://learn.365datascience.com/certificates/CC-9DA9672045/">365 Data Science Certified</a>)</li>
 </ul>
-<h3>Other skills</h3>
+<h3>Other Skills</h3>
 <ul>
   <li>Java (<a href="https://www.credly.com/badges/dd70d6c2-881f-4d22-aff5-ca0e15f09091">ITS Certified</a>)</li>
   <li>Spring Boot</li>
   <li>R programming</li>
   <li>Python</li>
 </ul>
-<h3>Productivity utilities</h3>
+<h3>Productivity Utilities</h3>
 <ul>
   <li>
     Microsoft Office
